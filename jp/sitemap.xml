@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jonleon.github.io/fa/facategories/</loc>
+    <loc>https://jonleon.github.io/jp/frcategories/</loc>
   </url><url>
-    <loc>https://jonleon.github.io/fa/faseries/</loc>
+    <loc>https://jonleon.github.io/jp/frseries/</loc>
   </url><url>
-    <loc>https://jonleon.github.io/fa/fatags/</loc>
+    <loc>https://jonleon.github.io/jp/frtags/</loc>
   </url><url>
-    <loc>https://jonleon.github.io/fa/</loc>
+    <loc>https://jonleon.github.io/jp/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,13 +16,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://jonleon.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://jonleon.github.io/fa/"
+                hreflang="jp"
+                href="https://jonleon.github.io/jp/"
                 />
   </url>
 </urlset>

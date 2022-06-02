@@ -8,29 +8,24 @@
     <loc>https://jonleon.github.io/categories/</loc>
     <lastmod>2021-06-02T13:23:08+09:00</lastmod>
   </url><url>
-    <loc>https://jonleon.github.io/tags/papermod/</loc>
-    <lastmod>2021-06-02T13:23:08+09:00</lastmod>
-  </url><url>
-    <loc>https://jonleon.github.io/series/papermod/</loc>
-    <lastmod>2021-06-02T13:23:08+09:00</lastmod>
-  </url><url>
     <loc>https://jonleon.github.io/</loc>
     <lastmod>2021-06-02T13:23:08+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://jonleon.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://jonleon.github.io/fa/"
+                hreflang="jp"
+                href="https://jonleon.github.io/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://jonleon.github.io/"
                 />
+  </url><url>
+    <loc>https://jonleon.github.io/tags/papermod/</loc>
+    <lastmod>2021-06-02T13:23:08+09:00</lastmod>
+  </url><url>
+    <loc>https://jonleon.github.io/series/papermod/</loc>
+    <lastmod>2021-06-02T13:23:08+09:00</lastmod>
   </url><url>
     <loc>https://jonleon.github.io/tags/papermod4/</loc>
     <lastmod>2021-06-02T13:23:08+09:00</lastmod>
