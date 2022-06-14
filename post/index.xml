@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Installation | Update</title>
+      <link>https://jonleon.github.io/post/jp/post/firsthugo/</link>
+      <pubDate>Wed, 02 Jun 2021 13:23:08 +0900</pubDate>
+      
+      <guid>https://jonleon.github.io/post/jp/post/firsthugo/</guid>
+      <description>Read Install and Update instructions here</description>
+    </item>
+    
+    <item>
       <title>SecondHugo</title>
       <link>https://jonleon.github.io/post/secondhugo/</link>
       <pubDate>Wed, 02 Jun 2021 13:23:08 +0900</pubDate>
@@ -27,6 +36,7 @@
       <guid>https://jonleon.github.io/post/secondhugo/</guid>
       <description>Hello World aaa bbb ccc </description>
     </item>
+    
     
   </channel>
 </rss>
